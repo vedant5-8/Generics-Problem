@@ -5,7 +5,7 @@ namespace PracticeProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("----Generics i C#----");
+            Console.WriteLine("----Generics in C#----");
         }
     }
 }
